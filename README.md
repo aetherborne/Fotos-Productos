@@ -1,7 +1,7 @@
 # Fotos-Productos
 Panini
 
-![image](https://github.com/aetherborne/Fotos-Productos/assets/169901416/54f43612-38ad-4b4d-96cd-34a52d854f2f)
+![image](https://github.com/aetherborne/Fotos-Productos/assets/169901416/1a8663d6-5567-46b8-aeca-615cdbacbc9b)
 
 Pizza
 
